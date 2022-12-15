@@ -24,6 +24,7 @@ Projeto realizado durante o evento ignite-lab-NodeJs, realizado pela [rocketseat
  $ cd/notification-service
 ```
 <p> - Instalando depências</p>
+
 ```bash
 $ yarn install
     ou
